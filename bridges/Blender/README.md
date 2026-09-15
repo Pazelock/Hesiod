@@ -4,7 +4,7 @@
 
 The Blender Bridge allows Hesiod to stream terrain data directly into Blender for visualization and further editing. This tutorial explains how to install the Blender add-on and establish a connection between Hesiod and Blender.
 
-The add-on `.zip` is located [here!](https://github.com/Pazelock/Hesiod/blob/main/bridges/Blender/hesiod_streamer_1.6.zip)
+The add-on `.zip` is located [here!](https://github.com/Pazelock/Hesiod/blob/main/bridges/Blender/hesiod_heightmap_streamer_1.9.zip)
 
 ## Intalling the Add-on in Blender
 
